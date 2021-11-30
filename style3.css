@@ -69,7 +69,7 @@
     /* first background parallax */
 
   .imagem1-site{
-    background-image: url(../img/inicio1.jpg);
+    background-image: url(/img/inicio1.jpg);
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
@@ -82,7 +82,7 @@
     /* scnd background parallax */
 
   .imagem2-site{
-    background-image: url(../img/inicio2.jpg);
+    background-image: url(/img/inicio2.jpg);
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
@@ -95,7 +95,7 @@
     /* thirt background parallax */
 
   .imagem3-site{
-    background-image: url(../img/inicio3.jpg);
+    background-image: url(/img/inicio3.jpg);
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
@@ -108,7 +108,7 @@
     /* fourth background parallax */
 
   .imagem4-site{
-    background-image: url(../img/inicio05.jpg);
+    background-image: url(/img/inicio05.jpg);
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
